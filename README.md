@@ -2,7 +2,7 @@
 
 | 登录01                                                       | 登录01-invalid                                               | 登录02                                                       | 登录03-登录成功                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="./Screenshots/登录01.png" alt="登录01" style="width:500px;" /> | <img src="./Screenshots/登录01-invalid.png" alt="登录01-invalid" style="width:500px;" /> | <img src="./Screenshots/登录02.png" alt="登录02" style="width:500px;" /> | <img src="./Screenshots/登录03-登录成功.png" alt="登录03-登录成功" style="width:500px;" /> |
+| <img src="./Screenshots/登录01.png" alt="登录01" style="width:416px;" /> | <img src="./Screenshots/登录01-invalid.png" alt="登录01-invalid" style="width:416px;" /> | <img src="./Screenshots/登录02.png" alt="登录02" style="width:416px;" /> | <img src="./Screenshots/登录03-登录成功.png" alt="登录03-登录成功" style="width:416px;" /> |
 
 
 
