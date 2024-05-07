@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "peppermint",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nsagora/peppermint",
+      "state" : {
+        "revision" : "9e3db637fbf8041c23a1b7f71e4ef16ac54f833f",
+        "version" : "1.2.0"
+      }
+    }
+  ],
+  "version" : 2
+}
